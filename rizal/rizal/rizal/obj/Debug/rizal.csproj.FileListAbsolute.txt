@@ -1,0 +1,13 @@
+D:\rizal\rizal\rizal\bin\Debug\rizal.exe.config
+D:\rizal\rizal\rizal\bin\Debug\rizal.exe
+D:\rizal\rizal\rizal\bin\Debug\rizal.pdb
+D:\rizal\rizal\rizal\bin\Debug\terbilang.dll
+D:\rizal\rizal\rizal\bin\Debug\terbilang.pdb
+D:\rizal\rizal\rizal\obj\Debug\rizal.csprojAssemblyReference.cache
+D:\rizal\rizal\rizal\obj\Debug\rizal.Form1.resources
+D:\rizal\rizal\rizal\obj\Debug\rizal.Properties.Resources.resources
+D:\rizal\rizal\rizal\obj\Debug\rizal.csproj.GenerateResource.cache
+D:\rizal\rizal\rizal\obj\Debug\rizal.csproj.CoreCompileInputs.cache
+D:\rizal\rizal\rizal\obj\Debug\rizal.csproj.CopyComplete
+D:\rizal\rizal\rizal\obj\Debug\rizal.exe
+D:\rizal\rizal\rizal\obj\Debug\rizal.pdb

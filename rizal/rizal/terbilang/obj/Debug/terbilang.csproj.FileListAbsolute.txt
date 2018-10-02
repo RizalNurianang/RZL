@@ -1,0 +1,6 @@
+D:\rizal\rizal\terbilang\bin\Debug\terbilang.dll
+D:\rizal\rizal\terbilang\bin\Debug\terbilang.pdb
+D:\rizal\rizal\terbilang\obj\Debug\terbilang.csprojAssemblyReference.cache
+D:\rizal\rizal\terbilang\obj\Debug\terbilang.csproj.CoreCompileInputs.cache
+D:\rizal\rizal\terbilang\obj\Debug\terbilang.dll
+D:\rizal\rizal\terbilang\obj\Debug\terbilang.pdb
